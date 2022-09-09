@@ -1,6 +1,6 @@
-# LATAM Containers Roadshow
+# Porto Containers Day
 
-This is the official repository of assets related to LATAM Containers Roadshow, an all-day customer-facing event to highlight our Container Services (Amazon EKS, ECS, ROSA and ECR) for customers from Latin America. The event is a combination of presentations, customer and partner showcases, and hands-on workshops, with content ranging from level 100 to 300.
+This is the official repository of assets related to Porto Containers Roadshow, an all-day customer-facing event to highlight our Container Services (Amazon EKS, ECS and ECR) for Porto. The Day is a combination of presentations, customer and partner showcases, and hands-on workshops, with content ranging from level 100 to 300.
 
 ## Getting Started
 
