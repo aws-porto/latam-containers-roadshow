@@ -24,5 +24,4 @@ Este workshop cria uma conta da AWS e um ambiente Cloud9. Você precisará do **
 
 A partir deste momento você poderá optar por executar os seguintes workshops:
 
-- [Amazon Elastic Container Service (ECS)](./ecs/docs/pt_BR/README.md)
 - [Amazon Elastic Kubernetes Service (EKS)](./eks/docs/pt_BR/README.md)
